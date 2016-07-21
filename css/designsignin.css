@@ -1,0 +1,59 @@
+.row [class^="col"] {
+background-color:#fbced1;
+border:1px solid #fe7880;
+
+}
+
+.center{
+  text-align:center;
+}
+/* === End === */
+
+body.login{
+  background-color: white;
+  color:#fff;
+  box-sizing: border-box;
+
+    
+}
+
+.login .logo{
+    width:195px;
+    min-height: 31px;
+    display: block;
+    float:left;
+    margin-top: 15px;
+    margin-right: 12px;
+    background: url("/assets/images/logo-blue-93341462.svg");
+}
+.container{
+	width: 100%;
+	display: inline;
+
+}
+
+.menu a{
+  color: #565656;
+  display: inline;
+  size: 10px;
+  text-align: right;
+  /*padding:20px;*/
+
+
+
+}
+li {
+  color: skyblue;
+  display: inline;
+  size: 10px;
+  padding:20px;
+
+
+  
+}
+ul{
+  display: inline;
+    margin-bottom:50px;
+  /*padding:20 auto;*/
+  
+}
